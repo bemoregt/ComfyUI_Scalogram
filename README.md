@@ -4,6 +4,13 @@ Custom nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) that gener
 
 A scalogram is a time-frequency representation similar to a spectrogram, but built on wavelets rather than the Short-Time Fourier Transform (STFT). This gives it adaptive time-frequency resolution — high temporal resolution at high frequencies, high frequency resolution at low frequencies — making it particularly well-suited for music, speech, and transient analysis.
 
+
+![ 예시](https://github.com/bemoregt/ComfyUI_Scalogram/blob/main/ScrShot%202.png)
+
+![ 예시](https://github.com/bemoregt/ComfyUI_Scalogram/blob/main/ScrShot%203.png)
+
+![ 예시](https://github.com/bemoregt/ComfyUI_Scalogram/blob/main/ScrShot%204.png)
+
 ---
 
 ## Nodes
